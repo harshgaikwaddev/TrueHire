@@ -197,7 +197,13 @@ requirements of third-party software included in or used by the project.
 
 ## 📜 License
 
-This project is for educational purposes.
+This project is licensed under the [MIT License](./LICENSE).
+
+Copyright (c) 2026 - Harsh Satish Gaikwad
+
+The MIT License applies to the original TrueHire project code. Third-party
+components and dependencies remain subject to their own licenses and
+attribution requirements.
 
 ---
 
