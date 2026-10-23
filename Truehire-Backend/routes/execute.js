@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * routes/execute.js
  * 
  * Express router for code execution endpoints.

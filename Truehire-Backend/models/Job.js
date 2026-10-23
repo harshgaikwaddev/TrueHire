@@ -1,3 +1,5 @@
+// Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+
 const mongoose = require("mongoose");
 
 const jobSchema = new mongoose.Schema(

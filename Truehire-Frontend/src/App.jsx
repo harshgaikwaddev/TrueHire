@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * App.jsx
  * 
  * Enterprise-grade User Interface for TrueHire platform.
@@ -292,7 +294,7 @@ function App() {
 
   // Professional Authentication Screen
   return (
-    <div className="min-h-screen bg-slate-950 flex items-center justify-center p-4 selection:bg-cyan-500 selection:text-white">
+    <div className="min-h-screen bg-slate-950 flex flex-col items-center justify-center p-4 selection:bg-cyan-500 selection:text-white">
       <div className="w-full max-w-md">
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 shadow-2xl">
           {/* Header Branding */}
@@ -405,7 +407,16 @@ function App() {
           </div>
         </div>
       </div>
+      <CopyrightFooter />
     </div>
+  );
+}
+
+function CopyrightFooter() {
+  return (
+    <footer className="w-full max-w-7xl mt-6 px-4 text-center text-[11px] leading-relaxed text-slate-500">
+      Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+    </footer>
   );
 }
 
@@ -771,6 +782,7 @@ function StudentDashboard({ user, handleLogout, jobs, applications, handleApplyT
           </div>
         )}
       </main>
+      <CopyrightFooter />
     </div>
   );
 }
@@ -1142,6 +1154,7 @@ function RecruiterDashboard({
           </div>
         )}
       </main>
+      <CopyrightFooter />
     </div>
   );
 }

@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * services/codeExecutor.js
  * 
  * Isolated code execution service for multiple programming languages:

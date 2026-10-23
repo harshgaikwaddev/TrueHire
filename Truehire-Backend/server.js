@@ -1,3 +1,5 @@
+// Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+
 const { loadEnvFile } = require("node:process");
 
 try {

@@ -1,3 +1,5 @@
+// Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+
 const express = require("express");
 const mongoose = require("mongoose");
 const Job = require("../models/Job");

@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * QuestionDetail.jsx
  * 
  * Interactive code solving workspace for a selected question.

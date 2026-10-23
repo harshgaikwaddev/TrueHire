@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * TestResultsPanel.jsx
  * 
  * Displays code execution and test case evaluation results.

@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * useCodeRunner.js
  * 
  * Custom hook to handle code execution (/api/execute/run)

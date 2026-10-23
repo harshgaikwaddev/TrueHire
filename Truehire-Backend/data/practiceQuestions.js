@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * data/practiceQuestions.js
  * 
  * Question bank containing coding practice problems and test cases.

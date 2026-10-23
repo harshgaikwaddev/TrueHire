@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * scripts/testExecutor.js
  * 
  * Standalone test script to verify code execution across supported languages:

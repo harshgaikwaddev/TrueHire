@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * PracticeHub.jsx
  * 
  * Main entry point for the Coding Practice section.

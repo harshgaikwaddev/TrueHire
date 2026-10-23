@@ -1,4 +1,6 @@
 /**
+ * Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
+ *
  * QuestionList.jsx
  * 
  * Lists all practice questions fetched from /api/questions.
